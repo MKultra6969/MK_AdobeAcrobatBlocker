@@ -1,3 +1,5 @@
+REM Сосал?
+
 @echo off
 setlocal enabledelayedexpansion
 
