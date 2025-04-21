@@ -34,3 +34,4 @@ Created by [mkultra6969](https://github.com/mkultra6969). If you have questions 
 
 ## ❓P.S
 
+- local man single-handedly dropped adobe's stock and sells by writing a simple script **(corporations hate him)**
