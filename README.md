@@ -2,6 +2,10 @@
 
 # **💊Project MK_AAB💉**
 
+## UPD 23.05.25
+GOOD NEWS
+- scripts also works with **ALL ADOBE PRODUCTS**
+
 ## **📋What the fuck is it?**
 
 - **Answer:**
